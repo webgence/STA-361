@@ -1,4 +1,4 @@
-<h1>Lessons and Labs from STA361</h1>
+<h1>Lessons/Labs and Assignments from STA361</h1>
 
 <h3>Requirements</h3>
 
